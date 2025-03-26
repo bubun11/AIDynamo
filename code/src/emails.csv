@@ -1,0 +1,8 @@
+text,label
+"Hi, its Adjustment.",Adjustment
+"Hi ,Its AU Transfer",AUTransfer
+"Hi, Its Closing notice",ClosingNotice
+"Hi, Its Commitment change",CommitmentChange
+"Hi, Its Fee Payment",FeePayment
+"Hi, Its Money movement inbound",MoneyMovementInbound
+Hi Its Money movement outbound,MoneyMovementOutbound
